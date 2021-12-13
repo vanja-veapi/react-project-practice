@@ -2,4 +2,6 @@
 ## Learning new technology (React)
 
 **Projects**
-  🔗 [https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+
+  🔗 [1. Birthday reminder](https://github.com/vanja-veapi/react-project-practice/tree/main/01-birthday-reminder/setup)
+  🔗 [2. Tours](https://github.com/vanja-veapi/react-project-practice/tree/main/02-tours/setup)
