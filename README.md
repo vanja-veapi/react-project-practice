@@ -1,2 +1,2 @@
 # react-project-practice
-Learning new technology (React)
+## Learning new technology (React)
